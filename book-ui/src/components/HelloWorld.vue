@@ -35,7 +35,7 @@
                   this.errors.push(e)
                 })
       }
-    },
+    }
 
   }
 </script>
